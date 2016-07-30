@@ -12,6 +12,8 @@ import org.springframework.orm.hibernate4.LocalSessionFactoryBean;
 @SpringBootApplication
 public class SampleApplication {
 
+    //comment for test git
+
     public static void main(String[] args) {
         SpringApplication.run(SampleApplication.class, args);
     }

@@ -83,7 +83,7 @@
                             </td>
                             <td class="sui-cell">
                                         <span class="col-sm-10">
-                                          <div class="form-group" id="readMessage" $oid=$message.oid>
+                                          <div class="form-group" id="readMessage" oid=$message.oid>
                                                   <div class="checkbox">
                                                             <label>
                                                                 <input type="checkbox" value="">
