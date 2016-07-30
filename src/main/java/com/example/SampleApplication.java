@@ -12,7 +12,7 @@ import org.springframework.orm.hibernate4.LocalSessionFactoryBean;
 @SpringBootApplication
 public class SampleApplication {
 
-
+//commit
     public static void main(String[] args) {
         SpringApplication.run(SampleApplication.class, args);
     }
